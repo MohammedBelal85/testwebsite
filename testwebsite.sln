@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "testwebsite", "..\..\WebSites\testwebsite\", "{319272A7-F70B-47D4-80CE-8F7FAF4712DB}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/testwebsite"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\testwebsite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\testwebsite\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/testwebsite"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\testwebsite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\testwebsite\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1436"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{319272A7-F70B-47D4-80CE-8F7FAF4712DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319272A7-F70B-47D4-80CE-8F7FAF4712DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
